@@ -1,0 +1,27 @@
+{
+  "name": "btablefilter",
+  "version": "1.0.1",
+  "description": "A simple and powerful JQuery plugin thats adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.",
+  "main": "btablefilter.js",
+  "homepage": "http://emalherbi.github.io/btooltip/",
+  "author": "emalherbi",
+  "license": {
+    "type": "MIT",
+    "url": "http://en.wikipedia.org/wiki/MIT_License"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "0.0.16",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-uglify": "^0.5.1",
+    "grunt-gh-pages": "^0.9.1",
+    "grunt-install-dependencies": "^0.2.0",
+    "grunt-notify": "^0.3.1"
+  },
+  "scripts": {
+    "test": "grunt --verbose"
+  }
+}

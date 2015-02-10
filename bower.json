@@ -1,0 +1,31 @@
+{
+  "name": "btablefilter",
+  "version": "1.0.1",
+  "description": "A simple and powerful JQuery plugin thats adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.",
+  "main": "btablefilter.js",
+  "dependencies": {
+    "jquery": ">= 1.9.1",
+    "bootstrap": "~3.3.2"
+  },
+  "keywords": [
+    "btablefilter",
+    "table",
+    "filter",
+    "search",
+    "bootstrap",
+    "javascript",
+    "library"
+  ],
+  "authors": [
+    "emalherbi"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/emalherbi/btooltip",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
