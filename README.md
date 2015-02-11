@@ -2,6 +2,9 @@
 
 [![Bower](https://img.shields.io/bower/v/bootstrap.svg)](https://github.com/emalherbi/jfilter/)
 [![BuildStatus](https://travis-ci.org/emalherbi/jfilter.svg?branch=master)](https://travis-ci.org/emalherbi/jfilter)
+[![status](https://sourcegraph.com/api/repos/github.com/emalherbi/jfilter/.badges/status.svg)](https://sourcegraph.com/github.com/emalherbi/jfilter)
+[![views](https://sourcegraph.com/api/repos/github.com/emalherbi/jfilter/.counters/views.svg)](https://sourcegraph.com/github.com/emalherbi/jfilter)
+[![views 24h](https://sourcegraph.com/api/repos/github.com/emalherbi/jfilter/.counters/views-24h.svg)](https://sourcegraph.com/github.com/emalherbi/jfilter)
 
 A simple and powerful JQuery plugin thats adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.
 
