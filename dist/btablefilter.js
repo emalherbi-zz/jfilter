@@ -1,3 +1,8 @@
+/*!
+ * btablefilter v1.0.1 (http://emalherbi.github.io/btooltip/)
+ * Copyright 2015-2015 emalherbi
+ * Licensed under MIT (http://en.wikipedia.org/wiki/MIT_License)
+ */
 /* IE8 trim function not exist */
 if(typeof String.prototype.trim !== 'function') {
   String.prototype.trim = function() {

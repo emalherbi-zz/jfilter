@@ -1,9 +1,10 @@
 # [BTableFilter](http://emalherbi.github.io/btablefilter/)
 
 [![Bower](https://img.shields.io/bower/v/bootstrap.svg)](https://github.com/emalherbi/btablefilter/)
-[![Build Status](https://travis-ci.org/emalherbi/btablefilter.svg?branch=master)](https://travis-ci.org/emalherbi/btablefilter)
+[![BuildStatus](https://travis-ci.org/emalherbi/btablefilter.svg?branch=master)](https://travis-ci.org/emalherbi/btablefilter)
 
 A simple and powerful JQuery plugin thats adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.
+
 <img align="right" height="150" src="http://bower.io/img/bower-logo.png">
 
 ## Bower.io
@@ -32,18 +33,17 @@ packages require it to be fetched and installed.
 $('#table').btablefilter();
 ```
 
-;## Options
+## Options
 
-;```
-;@param placement | type : string  | default : top  | how to position the popover - top | bottom | left | right
-;@param title     | type : string  |                | default title value if `title` tag isn't present
-;@param destroy   | type : boolean | default : true | destroy tooltip or not
-;@param time      | type : number  | default : 2000 | time to tooltip destroy (miliseconds)
-;```
+```
+@param addon : change input group addon
+@param placeholder : change the placeholder input
+@param class : change class searchable using in &lt;tbody&gt;
+```
 
 ## Required
 
-[jQuery](http://jquery.com/). [Bootstrap](http://getbootstrap.com/).
+[jQuery](http://jquery.com/) | [Bootstrap](http://getbootstrap.com/).
 
 ## Contributing
 

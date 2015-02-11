@@ -3,7 +3,5 @@
 $(function() {
   console.log( "ready!" );
 
-  hljs.initHighlightingOnLoad();
-
   $('#table-clients').btablefilter();
 });
