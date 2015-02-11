@@ -3,5 +3,6 @@
 $(function() {
   console.log( "ready!" );
 
-  $('#table-clients').btablefilter();
+  $('#table-clients').jfilter();
+  $('#list-clients' ).jfilter();
 });
