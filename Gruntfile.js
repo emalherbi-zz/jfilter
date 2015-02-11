@@ -22,7 +22,8 @@ module.exports = function(grunt) {
       },
       basic_and_extras: {
         files: {
-           "<%= properties.dist %>/<%= pkg.name %>.js" : ['<%= pkg.name %>.js']
+           "<%= properties.dist %>/<%= pkg.name %>.js" : ['<%= pkg.name %>.js'],
+           "<%= properties.test %>/<%= pkg.name %>.js" : ['<%= pkg.name %>.js']
         },
       },
     },
